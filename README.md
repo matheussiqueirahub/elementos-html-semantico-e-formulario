@@ -1,6 +1,10 @@
 # Matrix — Formulário Semântico
 
-> HTML semântico, acessível e responsivo com um toque de Matrix (code rain em canvas). Perfeito para compor seu portfolio.
+Uma landing minimalista com formulário de cadastro, escrita com HTML semântico, acessibilidade real e um visual sutil inspirado em Matrix. O foco é demonstrar domínio de marcação correta, boas práticas de UX e pequenos detalhes de front-end que contam pontos em projetos profissionais.
+
+• Live demo: https://matheussiqueirahub.github.io/elementos-html-semantico-e-formulario/
+
+![Prévia do projeto](./assets/preview.svg)
 
 ## Destaques
 
@@ -45,4 +49,3 @@ No repositório no GitHub: Settings → Pages → Build and deployment → Sourc
 ---
 
 Feito com carinho pela web aberta. Divirta‑se! 🟩
-
