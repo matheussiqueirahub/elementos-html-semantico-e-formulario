@@ -1,5 +1,7 @@
 # Matrix — Formulário Semântico
 
+[![Deploy status](https://github.com/matheussiqueirahub/elementos-html-semantico-e-formulario/actions/workflows/deploy-pages.yml/badge.svg?branch=main)](https://github.com/matheussiqueirahub/elementos-html-semantico-e-formulario/actions/workflows/deploy-pages.yml)
+
 Uma landing minimalista com formulário de cadastro, escrita com HTML semântico, acessibilidade real e um visual sutil inspirado em Matrix. O foco é demonstrar domínio de marcação correta, boas práticas de UX e pequenos detalhes de front-end que contam pontos em projetos profissionais.
 
 • Live demo: https://matheussiqueirahub.github.io/elementos-html-semantico-e-formulario/
@@ -49,3 +51,19 @@ No repositório no GitHub: Settings → Pages → Build and deployment → Sourc
 ---
 
 Feito com carinho pela web aberta. Divirta‑se! 🟩
+
+## Tópicos (tags) sugeridos
+
+Adicione estes tópicos no repositório para melhorar a descoberta:
+
+`html`, `css`, `javascript`, `semantic-html`, `accessibility`, `a11y`, `forms`, `github-pages`, `portfolio`, `matrix`, `canvas`, `web-standards`, `frontend`.
+
+Se preferir via GitHub CLI (após `gh auth login`):
+
+```bash
+gh repo edit matheussiqueirahub/elementos-html-semantico-e-formulario \
+  --add-topic html --add-topic css --add-topic javascript \
+  --add-topic semantic-html --add-topic accessibility --add-topic a11y \
+  --add-topic forms --add-topic github-pages --add-topic portfolio \
+  --add-topic matrix --add-topic canvas --add-topic web-standards --add-topic frontend
+```
